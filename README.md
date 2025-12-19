@@ -4,4 +4,4 @@ A personal portfolio project created with HTML, CSS, and JavaScript, showcasing 
 interactive way. This dynamic website highlights my work and provides visitors with a glimpse of my talents and expertise.
 
 
-<img width="944" alt="Screenshot 2023-11-05 201343" src="https://github.com/divya-gadekar28/My-Portfolio/assets/116143709/0c96cc61-bb85-4405-80e8-8928d162f03b">
+<img width="1898" height="906" alt="image" src="https://github.com/user-attachments/assets/e128a8a1-55aa-4877-943b-18f03457df77" />
